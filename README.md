@@ -10,8 +10,7 @@
 <div align="center"><a href="https://tomweiland.net/youtube">YouTube</a>&emsp;<b>•</b>&emsp;<a href="https://discord.com/invite/tomweiland">Discord</a></div>
 <h1 align="center">RiptideNetworking</h1>
 <div align="center">
-<h1 align="center">
-<a href="https://github.com/VeriorPies/ParrelSync">ParrelSync</a></h1>
+<h1 align="center">ParrelSync</h1>
 <a href="https://discord.gg/TmQk2qG">Parrel SyncDiscord Server.</a>
-
+<a href="https://github.com/VeriorPies/ParrelSync">Github</a>
 </div>
