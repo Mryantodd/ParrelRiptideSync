@@ -2,7 +2,7 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div class= "co-sm-12">
+        <div class= "col-sm-12 alert-danger">
         test
         </div>
     </div>
