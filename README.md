@@ -11,6 +11,6 @@
 <h1 align="center">RiptideNetworking</h1>
 <div align="center">
 <h1 align="center">ParrelSync</h1>
-<a href="https://discord.gg/TmQk2qG">Parrel SyncDiscord Server.</a>&emsp;<b>•</b>&emsp;
-<a href="https://github.com/VeriorPies/ParrelSync">Github</a>
+</div>
+<div align="center"><a href="https://discord.gg/TmQk2qG">Parrel SyncDiscord Server.</a>&emsp;<b>•</b>&emsp;<a href="https://github.com/VeriorPies/ParrelSync">Github</a>
 </div>
