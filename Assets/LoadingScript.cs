@@ -9,6 +9,10 @@ public class LoadingScript : MonoBehaviour
 {
     public TextMeshProUGUI textMeshProUGUI;
     public TextMeshProUGUI textMeshProUGUI2;
+    public GameObject serverNetworkManager;
+    public GameObject clientNetworkManager;
+    public GameObject introCanvas;
+
     void Start()
     {
         if (ClonesManager.IsClone())
@@ -25,14 +29,19 @@ public class LoadingScript : MonoBehaviour
     {
         textMeshProUGUI.text += ".";
         yield return new WaitForSeconds(1.25f);
+        introCanvas.SetActive(false);
         if (ClonesManager.IsClone())
         {
-            SceneManager.LoadScene("ClientMain", LoadSceneMode.Single);
+            //SceneManager.LoadScene("ClientMain", LoadSceneMode.Single);
+            serverNetworkManager.SetActive(false);
+            clientNetworkManager.SetActive(true);
         }
         else
         {
             // Automatically start server if this is the original editor
-            SceneManager.LoadScene("ServerMain", LoadSceneMode.Single);
+            //SceneManager.LoadScene("ServerMain", LoadSceneMode.Single);
+            serverNetworkManager.SetActive(true);
+            clientNetworkManager.SetActive(false);
         }
     }
 }
