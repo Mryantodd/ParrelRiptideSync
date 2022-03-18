@@ -9,4 +9,7 @@
 </div>
 <div align="center"><a href="https://tomweiland.net/youtube">YouTube</a>&emsp;<b>•</b>&emsp;<a href="https://discord.com/invite/tomweiland">Discord</a></div>
 <h1 align="center">RiptideNetworking</h1>
-This project is originated from combining the ParraelSync project https://github.com/VeriorPies/ParrelSync along with Riptide Networking https://github.com/tom-weiland/RiptideNetworking
+
+## ParrelSync Discord Server
+ParrelSync has a [Discord server](https://discord.gg/TmQk2qG).
+[Github] https://github.com/VeriorPies/ParrelSync 
