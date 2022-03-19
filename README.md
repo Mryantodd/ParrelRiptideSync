@@ -6,9 +6,11 @@
   <a href="https://github.com/tom-weiland/RiptideNetworking">
     <img src="https://user-images.githubusercontent.com/51303091/119734159-690afc00-be2f-11eb-9673-c1f998025a3e.png" width="20%" height="auto">
   </a>
-    <a href="https://tomweiland.net/youtube">YouTube</a>
+        <a href="https://tomweiland.net/youtube">YouTube</a>
     &emsp;<b>•</b>&emsp;
     <a href="https://discord.com/invite/tomweiland">Discord</a>
+</div>
+<div align="center">
     <h1>RiptideNetworking</h1>
     <p>RiptideNetworking is a lightweight C# networking library primarily designed for use in multiplayer games. It can be used in Unity as well as in other .NET environments such as console applications.
     </p>
