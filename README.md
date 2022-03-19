@@ -16,7 +16,7 @@
     </p>
 </div>
 
-<h2 align="center">&</h2>
+<div align="center">&</div>
 <div align="center">
     <h1>ParrelSync</h1>
     <p>ParrelSync is a Unity editor extension that allows users to test multiplayer gameplay without building the project by having another Unity editor window opened and mirror the changes from the original project.
