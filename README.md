@@ -6,6 +6,8 @@
   <a href="https://github.com/tom-weiland/RiptideNetworking">
     <img src="https://user-images.githubusercontent.com/51303091/119734159-690afc00-be2f-11eb-9673-c1f998025a3e.png" width="20%" height="auto">
   </a>
+  </div>
+  <div align="center">
         <a href="https://tomweiland.net/youtube">YouTube</a>
     &emsp;<b>•</b>&emsp;
     <a href="https://discord.com/invite/tomweiland">Discord</a>
